@@ -1,1 +1,2 @@
 hoge
+second time hoge
