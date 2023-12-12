@@ -18,3 +18,5 @@ const Price = {
 console.log(Price.yen1())
 // console.log(Price.yen2())
 console.log(Price.yen3())
+
+// アロー関数にはarguments変数が使えない
