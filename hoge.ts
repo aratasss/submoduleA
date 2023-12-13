@@ -20,3 +20,6 @@ console.log(Price.yen1())
 console.log(Price.yen3())
 
 // アロー関数にはarguments変数が使えない
+function handleChange(event: React.ChangeEvent<HTMLInputElement>) {
+    setValue(event.currentTarget.value);
+  }
