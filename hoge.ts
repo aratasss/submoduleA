@@ -33,3 +33,5 @@ function foo(_a1:number, _a2:number) {
 
   const f = foo(1, 2);
   console.log(f()); // 3
+  console.log("hogehoge");
+  
