@@ -1,9 +1,3 @@
-hoge
-second time hoge
-
-
-
-
 # JavaScriptの関数を極める
 
 ## クロージャが活用されるケース

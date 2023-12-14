@@ -23,3 +23,13 @@ console.log(Price.yen3())
 function handleChange(event: React.ChangeEvent<HTMLInputElement>) {
     setValue(event.currentTarget.value);
   }
+
+
+function foo(_a1:number, _a2:number) {
+  return function() {
+    return arguments._a1 + arguments._a2;
+  };
+}
+
+  const f = foo(1, 2);
+  console.log(f()); // 3
